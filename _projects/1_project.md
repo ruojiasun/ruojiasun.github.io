@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: "Social Disparity in Impacts of Climate Disasters in the U.S.: A Data-Driven study (2023)"
 description: with background image
 img: assets/img/12.jpg
 importance: 1
