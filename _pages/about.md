@@ -18,11 +18,9 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+With over 5 years of experience as a research assistant in human-computer interaction, I bring expertise in data analysis, quantitative and qualitative research methods, project management, and communication of findings. I am self-driven, resourceful, and detail-oriented, contributing to multiple award-winning research projects. In each role and project I take on, I apply my technical skills and analytical thinking to deliver high-quality outcomes, learn and adapt quickly to new responsibilities, and collaborate smoothly with interdisciplinary teams. 
 
-Hi, I'm Ruojia! I am a researcher at heart, with 4+ years of experience in quantitative and qualitative academic research on human-computer interaction. As such, I am driven by a deep curiosity to learn about the world. I focus on asking the right questions, applying my technical skills and creative thinking to deliver insights on complex problems, and telling impactful stories of the results.​
-​
-
-I am seeking full-time data analyst and UX researcher positions. In May 2024, I completed my M.S. in Creative Technology & Design at the University of Colorado Boulder, where my funded research focused on technology for dance, movement, and wellness. Previously, I received my B.S. and M.Eng. in Mechanical Engineering from Cornell University. I also apply my enthusiasm for learning and taking on new challenges to dance, baking, and social justice issues.
+I am actively seeking full-time data analyst, UX researcher, and other research positions. In May 2024, I completed my M.S. in Creative Technology & Design at the University of Colorado Boulder, where my funded research focused on technology for dance, movement, and wellness. Previously, I received my B.S. and M.Eng. in Mechanical Engineering from Cornell University. I also apply my enthusiasm for learning and taking on new challenges to dance, baking, and social justice issues.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
