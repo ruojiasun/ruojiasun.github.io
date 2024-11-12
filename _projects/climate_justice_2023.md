@@ -4,7 +4,7 @@ title: "Social Disparity in Impacts of Climate Disasters (2023)"
 description: Using a data-driven approach and leveraging machine learning models to identify trends in how climate disasters impact different demographic groups in the U.S. 
 img: assets/img/1_cover.jpg
 importance: 1
-category: work
+category: data
 related_publications: false
 ---
 

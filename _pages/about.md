@@ -18,7 +18,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-With over 5 years of experience as a research assistant in human-computer interaction, I bring expertise in data analysis, quantitative and qualitative research methods, project management, and communication of findings. I am self-driven, resourceful, and detail-oriented, contributing to multiple award-winning research projects. In each role and project I take on, I apply my technical skills and analytical thinking to deliver high-quality outcomes, learn and adapt quickly to new responsibilities, and collaborate smoothly with interdisciplinary teams. 
+With over 5 years of experience as a research assistant in human-computer interaction, I bring expertise in data analysis, quantitative and qualitative research methods, project management, and communicating findings.  As a contributor to several award-winning research projects, I am self-driven, resourceful, and detail-oriented, applying my technical and problem-solving skills to deliver high-quality outcomes and adapting fluently to various roles and responsibilities.
 
 I am actively seeking full-time data analyst, UX researcher, and other research positions. In May 2024, I completed my M.S. in Creative Technology & Design at the University of Colorado Boulder, where my funded research focused on technology for dance, movement, and wellness. Previously, I received my B.S. and M.Eng. in Mechanical Engineering from Cornell University. I also apply my enthusiasm for learning and taking on new challenges to dance, baking, and social justice issues.
 
