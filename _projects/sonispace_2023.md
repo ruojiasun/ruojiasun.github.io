@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SoniSpace (2023)"
-description: "Multi-sensory interactive creativity support tool for dance, to encourage \"taking up space\" with the body"
+description: "Multi-sensory interactive creativity support tool for dance, to encourage 'taking up space' with the body"
 img: assets/img/sonispace_cover.png
 importance: 3
 category: research
