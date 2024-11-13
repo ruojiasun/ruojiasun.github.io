@@ -16,4 +16,4 @@ Kunpeng Huang, **Ruojia Sun** \*, Ximeng Zhang\*, Md. Tahmidul Islam Molla\*, Ma
 
 **Best Paper Award** (Top 1%)
 
-[[DOI](https://doi.org/10.1145/3461778.3462105)][[PDF](assets/pdf/wovenprobe_2021.pdf)]
+[[DOI](https://doi.org/10.1145/3461778.3462105)][[PDF](/assets/pdf/wovenprobe_2021.pdf)]

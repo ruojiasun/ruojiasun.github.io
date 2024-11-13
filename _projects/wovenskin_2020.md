@@ -18,4 +18,4 @@ Weaving possesses the structural and aesthetic capacities for creating soft, wea
 **Best Paper Honorable Mention Award** (Top 5%)
 **Best Demo Award**
 
-[[DOI](https://dl.acm.org/doi/abs/10.1145/3357236.3395548)][[PDF](assets/pdf/wovenskin_2020.pdf)]
+[[DOI](https://dl.acm.org/doi/abs/10.1145/3357236.3395548)][[PDF](/assets/pdf/wovenskin_2020.pdf)]
